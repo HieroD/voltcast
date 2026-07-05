@@ -1,4 +1,8 @@
 flask
-pandas
+flask-cors
 numpy
+pandas
 scikit-learn
+joblib
+tensorflow>=2.18
+keras>=3.7
