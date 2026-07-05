@@ -142,7 +142,7 @@ class _AboutScreenState extends State<AboutScreen> {
                               ),
                               const SizedBox(width: 8),
                               const Text(
-                                'Stack Teknologi',
+                                'Tech Stack',
                                 style: TextStyle(
                                   fontSize: 18,
                                   fontWeight: FontWeight.bold,
